@@ -91,5 +91,4 @@ Media/
 
 ## Authors
 
-- Theekshana Pradeep
 - Nirupama Priyashan
